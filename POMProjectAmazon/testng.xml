@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="POMProjectAmazon">
+    <classes>
+      <class name="com.amazon.qa.testcases.AmznHomePageTest"> </class>
+       <class name="com.amazon.qa.testcases.AmznLoginPageTest"> </class>
+        <class name="com.amazon.qa.testcases.AmznSignUpTest"> </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test thread-count="5" name="POMProjectAmazon(failed)">
+    <classes>
+      <class name="com.amazon.qa.testcases.AmznSignUpTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="enterPasswordTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.amazon.qa.testcases.AmznSignUpTest -->
+    </classes>
+  </test> <!-- POMProjectAmazon(failed) -->
+</suite> <!-- Failed suite [Suite] -->

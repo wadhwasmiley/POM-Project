@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-25T01:23:46Z" name="Suite" finished-at="2022-07-25T01:25:10Z" duration-ms="84095">
+    <groups>
+    </groups>
+    <test started-at="2022-07-25T01:23:46Z" name="POMProjectAmazon" finished-at="2022-07-25T01:25:10Z" duration-ms="84095">
+      <class name="com.amazon.qa.testcases.AmznSignUpTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.qa.testcases.AmznSignUpTest@1877ab81]" started-at="2022-07-25T01:24:30Z" name="setup" finished-at="2022-07-25T01:24:37Z" duration-ms="6483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnContinueTest()[pri:0, instance:com.amazon.qa.testcases.AmznSignUpTest@1877ab81]" started-at="2022-07-25T01:24:37Z" name="clickOnContinueTest" finished-at="2022-07-25T01:24:37Z" duration-ms="392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnContinueTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.amazon.qa.testcases.AmznSignUpTest@1877ab81]" started-at="2022-07-25T01:24:37Z" name="teardown" finished-at="2022-07-25T01:24:38Z" duration-ms="1217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.qa.testcases.AmznSignUpTest@1877ab81]" started-at="2022-07-25T01:24:38Z" name="setup" finished-at="2022-07-25T01:24:45Z" duration-ms="6367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="enterMobileNumberTest()[pri:0, instance:com.amazon.qa.testcases.AmznSignUpTest@1877ab81]" started-at="2022-07-25T01:24:45Z" name="enterMobileNumberTest" finished-at="2022-07-25T01:24:45Z" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterMobileNumberTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.amazon.qa.testcases.AmznSignUpTest@1877ab81]" started-at="2022-07-25T01:24:45Z" name="teardown" finished-at="2022-07-25T01:24:46Z" duration-ms="1478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.qa.testcases.AmznSignUpTest@1877ab81]" started-at="2022-07-25T01:24:46Z" name="setup" finished-at="2022-07-25T01:24:53Z" duration-ms="6609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="enterNameTest()[pri:0, instance:com.amazon.qa.testcases.AmznSignUpTest@1877ab81]" started-at="2022-07-25T01:24:53Z" name="enterNameTest" finished-at="2022-07-25T01:24:53Z" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterNameTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.amazon.qa.testcases.AmznSignUpTest@1877ab81]" started-at="2022-07-25T01:24:53Z" name="teardown" finished-at="2022-07-25T01:24:54Z" duration-ms="1216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.qa.testcases.AmznSignUpTest@1877ab81]" started-at="2022-07-25T01:24:54Z" name="setup" finished-at="2022-07-25T01:25:01Z" duration-ms="6431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="enterPasswordAgainTest()[pri:0, instance:com.amazon.qa.testcases.AmznSignUpTest@1877ab81]" started-at="2022-07-25T01:25:01Z" name="enterPasswordAgainTest" finished-at="2022-07-25T01:25:01Z" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterPasswordAgainTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.amazon.qa.testcases.AmznSignUpTest@1877ab81]" started-at="2022-07-25T01:25:01Z" name="teardown" finished-at="2022-07-25T01:25:02Z" duration-ms="1245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.qa.testcases.AmznSignUpTest@1877ab81]" started-at="2022-07-25T01:25:02Z" name="setup" finished-at="2022-07-25T01:25:09Z" duration-ms="6360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="enterPasswordTest()[pri:0, instance:com.amazon.qa.testcases.AmznSignUpTest@1877ab81]" started-at="2022-07-25T01:25:09Z" name="enterPasswordTest" finished-at="2022-07-25T01:25:09Z" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterPasswordTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.amazon.qa.testcases.AmznSignUpTest@1877ab81]" started-at="2022-07-25T01:25:09Z" name="teardown" finished-at="2022-07-25T01:25:10Z" duration-ms="1214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.amazon.qa.testcases.AmznSignUpTest -->
+      <class name="com.amazon.qa.testcases.AmznLoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.qa.testcases.AmznLoginPageTest@4232c52b]" started-at="2022-07-25T01:24:12Z" name="setup" finished-at="2022-07-25T01:24:16Z" duration-ms="4465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="enterEmailTest()[pri:0, instance:com.amazon.qa.testcases.AmznLoginPageTest@4232c52b]" started-at="2022-07-25T01:24:16Z" name="enterEmailTest" finished-at="2022-07-25T01:24:17Z" duration-ms="549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterEmailTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.amazon.qa.testcases.AmznLoginPageTest@4232c52b]" started-at="2022-07-25T01:24:17Z" name="teardown" finished-at="2022-07-25T01:24:18Z" duration-ms="1135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.qa.testcases.AmznLoginPageTest@4232c52b]" started-at="2022-07-25T01:24:18Z" name="setup" finished-at="2022-07-25T01:24:23Z" duration-ms="4818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="enterWrongEmailTest()[pri:0, instance:com.amazon.qa.testcases.AmznLoginPageTest@4232c52b]" started-at="2022-07-25T01:24:23Z" name="enterWrongEmailTest" finished-at="2022-07-25T01:24:23Z" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterWrongEmailTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.amazon.qa.testcases.AmznLoginPageTest@4232c52b]" started-at="2022-07-25T01:24:23Z" name="teardown" finished-at="2022-07-25T01:24:24Z" duration-ms="1082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.qa.testcases.AmznLoginPageTest@4232c52b]" started-at="2022-07-25T01:24:24Z" name="setup" finished-at="2022-07-25T01:24:29Z" duration-ms="4468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="readErrorMessageTest()[pri:0, instance:com.amazon.qa.testcases.AmznLoginPageTest@4232c52b]" started-at="2022-07-25T01:24:29Z" name="readErrorMessageTest" finished-at="2022-07-25T01:24:29Z" duration-ms="574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readErrorMessageTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.amazon.qa.testcases.AmznLoginPageTest@4232c52b]" started-at="2022-07-25T01:24:29Z" name="teardown" finished-at="2022-07-25T01:24:30Z" duration-ms="1095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.amazon.qa.testcases.AmznLoginPageTest -->
+      <class name="com.amazon.qa.testcases.AmznHomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.qa.testcases.AmznHomePageTest@57e1b0c]" started-at="2022-07-25T01:23:46Z" name="setup" finished-at="2022-07-25T01:23:51Z" duration-ms="4757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnSignInTest()[pri:0, instance:com.amazon.qa.testcases.AmznHomePageTest@57e1b0c]" started-at="2022-07-25T01:23:51Z" name="clickOnSignInTest" finished-at="2022-07-25T01:23:52Z" duration-ms="1094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSignInTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.amazon.qa.testcases.AmznHomePageTest@57e1b0c]" started-at="2022-07-25T01:23:52Z" name="teardown" finished-at="2022-07-25T01:23:53Z" duration-ms="1242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.qa.testcases.AmznHomePageTest@57e1b0c]" started-at="2022-07-25T01:23:53Z" name="setup" finished-at="2022-07-25T01:23:57Z" duration-ms="3608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="hoverOnSignInBtnTest()[pri:0, instance:com.amazon.qa.testcases.AmznHomePageTest@57e1b0c]" started-at="2022-07-25T01:23:57Z" name="hoverOnSignInBtnTest" finished-at="2022-07-25T01:23:57Z" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hoverOnSignInBtnTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.amazon.qa.testcases.AmznHomePageTest@57e1b0c]" started-at="2022-07-25T01:23:57Z" name="teardown" finished-at="2022-07-25T01:23:58Z" duration-ms="1012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.qa.testcases.AmznHomePageTest@57e1b0c]" started-at="2022-07-25T01:23:58Z" name="setup" finished-at="2022-07-25T01:24:02Z" duration-ms="3762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="iPadSuggestionListTest()[pri:0, instance:com.amazon.qa.testcases.AmznHomePageTest@57e1b0c]" started-at="2022-07-25T01:24:02Z" name="iPadSuggestionListTest" finished-at="2022-07-25T01:24:05Z" duration-ms="2872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iPadSuggestionListTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.amazon.qa.testcases.AmznHomePageTest@57e1b0c]" started-at="2022-07-25T01:24:05Z" name="teardown" finished-at="2022-07-25T01:24:06Z" duration-ms="1157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.qa.testcases.AmznHomePageTest@57e1b0c]" started-at="2022-07-25T01:24:06Z" name="setup" finished-at="2022-07-25T01:24:10Z" duration-ms="4172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchiPadTest()[pri:0, instance:com.amazon.qa.testcases.AmznHomePageTest@57e1b0c]" started-at="2022-07-25T01:24:10Z" name="searchiPadTest" finished-at="2022-07-25T01:24:10Z" duration-ms="497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchiPadTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.amazon.qa.testcases.AmznHomePageTest@57e1b0c]" started-at="2022-07-25T01:24:10Z" name="teardown" finished-at="2022-07-25T01:24:12Z" duration-ms="1233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.amazon.qa.testcases.AmznHomePageTest -->
+    </test> <!-- POMProjectAmazon -->
+  </suite> <!-- Suite -->
+</testng-results>
